@@ -50,7 +50,7 @@ const favoriteFoods = ["Cheese", "Chocolate", "Olives", "Anchovies"];
 - Name is Patrick, special skill is Call of Duty.
 - Name is Chris, special skill is changing lives.
 - Name is Tim, special skill is kitchen based analogies.
-- Name is James, special skill is mannequin friendship.
+-
 - Name is Joe, special skill is being positive. 
 - Name is Max, special skill is papier-mâché.
 
